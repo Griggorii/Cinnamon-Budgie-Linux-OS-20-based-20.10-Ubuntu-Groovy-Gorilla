@@ -4,10 +4,12 @@ Update Cinnamon-Budgie-Linux-OS-11-based-19.04-Ubuntu-Pop X64 Android + ново
 
 Скачать Download Cinnamon Budgie OS 11 19.04 iso https://dropmefiles.com.ua/mkMAD + (Android https://yadi.sk/d/Cc-bpsnqtk1b9w)
 
-Если пропадает язык то сделать в терминале от рута dpkg-reconfigure keyboard-configuration
+Устанавливаться будет по дольше так как компилируется на лету для вашей системы и железа.
 
 Система переведена на QT5CT не трогайте пока что эти настройки они уже настроены и могут упасть в сигфолт так как другие темы не 
 особо готовы и щупать их безопасно только в режиме гостя. И то кому это надо для разработчиков пусть правят свои баги и испытывают на vlc , qbittorent, kdenlive.
+
+Если пропадает язык то сделать в терминале от рута dpkg-reconfigure keyboard-configuration
 
 Звуковые эффекты PulseEffects https://www.twitch.tv/videos/412938081 так же в моей системе есть PulseAudio Equalizer но в купе 
 с PulseEffects он не будет работать так если PulseAudio Equalizer будете использовать то включайте его первым при загрузке , одновременно работать не могут так как потребляют один и тот же источник звука.
