@@ -7,7 +7,7 @@ Update Cinnamon-Budgie-Linux-OS-11-based-19.04-Ubuntu-Pop X64 Android + ново
 Устанавливаться будет по дольше так как компилируется на лету для вашей системы и железа. После установки из консоли или вручную удалите из etc (10-globally-managed-devices.conf) sudo rm-rf /etc/NetworkManager/conf.d/10-globally-managed-devices.conf дело в том что он мешает появиться проводному интернету в оболочке gnome-control центра
 
 Система переведена на QT5CT не трогайте пока что эти настройки они уже настроены и могут упасть в сигфолт так как другие темы не 
-особо готовы и щупать их безопасно только в режиме гостя. И то кому это надо для разработчиков пусть правят свои баги и испытывают на vlc , qbittorent, kdenlive.
+особо готовы и щупать их безопасно только в режиме гостя. И то кому это надо для разработчиков пусть правят свои баги и испытывают на vlc , qbittorent, kdenlive. Выпущено новое ядро https://github.com/Griggorii/linux-kernel-5.1.0_amd64.deb/blob/master/README.md
 
 Если пропадает язык то сделать в терминале от рута dpkg-reconfigure keyboard-configuration
 
