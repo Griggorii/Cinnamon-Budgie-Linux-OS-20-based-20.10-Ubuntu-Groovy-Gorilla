@@ -4,7 +4,7 @@ Update Cinnamon-Budgie-Linux-OS-11-based-19.04-Ubuntu-Pop X64 Android + ново
 
 Скачать Download Cinnamon Budgie OS 11 19.04 iso https://dropmefiles.com.ua/mkMAD + (Android https://yadi.sk/d/Cc-bpsnqtk1b9w)
 
-Устанавливаться будет по дольше так как компилируется на лету для вашей системы и железа.
+Устанавливаться будет по дольше так как компилируется на лету для вашей системы и железа. После установки из консоли или вручную удалите из etc (10-globally-managed-devices.conf) sudo rm-rf /etc/NetworkManager/conf.d/10-globally-managed-devices.conf дело в том что он мешает появиться проводному интернету в оболочке gnome-control центра
 
 Система переведена на QT5CT не трогайте пока что эти настройки они уже настроены и могут упасть в сигфолт так как другие темы не 
 особо готовы и щупать их безопасно только в режиме гостя. И то кому это надо для разработчиков пусть правят свои баги и испытывают на vlc , qbittorent, kdenlive.
