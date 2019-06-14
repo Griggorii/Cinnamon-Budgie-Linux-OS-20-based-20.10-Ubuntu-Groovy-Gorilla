@@ -2,16 +2,13 @@
 
 Update Cinnamon-Budgie-Linux-OS-11-based-19.04-Ubuntu-Pop X64 Android + новое дополненное меню + my skel setting + Android
 
-Скачать Download Cinnamon Budgie OS 11 19.04 iso для флешки 4 гигабайта https://dropmefiles.com.ua/SNDxLaTs + (Android https://yadi.sk/d/Cc-bpsnqtk1b9w)
+Скачать VIP дистрибутив Download Cinnamon Budgie OS 11 19.04 iso для флешки 4 гигабайта https://dropmefiles.com.ua/SNDxLaTs + (Android https://yadi.sk/d/Cc-bpsnqtk1b9w)
 
 Скачать Download Cinnamon Budgie OS 11 19.04 iso https://dropmefiles.com.ua/mkMAD + (Android https://yadi.sk/d/Cc-bpsnqtk1b9w)
 
 Устанавливаться будет по дольше так как компилируется на лету для вашей системы и железа. После установки из консоли или вручную удалите из etc (10-globally-managed-devices.conf) sudo rm-rf /etc/NetworkManager/conf.d/10-globally-managed-devices.conf дело в том что он мешает появиться проводному интернету в оболочке gnome-control центра , для флешки 4 гигабайта исправлено.
 
-Минусы и плюсы 4 гигабайта выскакивает надпись drm intel и не удалось завести на рабочее состояние pulseaudio-equalizer не путать с pulseeffects тот работает нормально, но в образе всё что нужно максимально минимум OBS Studio сами до установите и что вам надо, тот образ что больше 
-нету надписи drm intel , но после установки надо сделать sudo rm-rf /etc/NetworkManager/conf.d/10-globally-managed-devices.conf 
-работает pulseeffects и pulseaudio-equalizer , кто возьмётся переделывать что бы всё работало да конечно никто так что пока денег 
-на разработку нету благодаря тем кто печатает бюджет пользуемся чем есть , так называемой анти астрой , анти отстоиный интерфейс.
+Минусы и плюсы 4 гигабайта выскакивает надпись drm intel и не удалось завести на рабочее состояние pulseaudio-equalizer не путать с pulseeffects тот работает нормально, но в образе всё что нужно максимально минимум OBS Studio сами до установите и что вам надо, тот образ что больше нету надписи drm intel , но после установки надо сделать sudo rm-rf /etc/NetworkManager/conf.d/10-globally-managed-devices.conf работает pulseeffects и pulseaudio-equalizer , кто возьмётся переделывать что бы всё работало да конечно никто так что пока денег на разработку нету благодаря тем кто печатает бюджет пользуемся чем есть , так называемой анти астрой , анти отстоиный интерфейс.
 
 Система переведена на QT5CT не трогайте пока что эти настройки они уже настроены и могут упасть в сигфолт так как другие темы не 
 особо готовы и щупать их безопасно только в режиме гостя. И то кому это надо для разработчиков пусть правят свои баги и испытывают на vlc , qbittorent, kdenlive. Выпущено новое ядро https://github.com/Griggorii/linux-kernel-5.1.0_amd64.deb/blob/master/README.md
@@ -19,7 +16,8 @@ Update Cinnamon-Budgie-Linux-OS-11-based-19.04-Ubuntu-Pop X64 Android + ново
 Если пропадает язык то сделать в терминале от рута dpkg-reconfigure keyboard-configuration
 
 Звуковые эффекты PulseEffects https://www.twitch.tv/videos/412938081 так же в моей системе есть PulseAudio Equalizer но в купе 
-с PulseEffects он не будет работать так если PulseAudio Equalizer будете использовать то включайте его первым при загрузке , одновременно работать не могут так как потребляют один и тот же источник звука.
+с PulseEffects он не будет работать так если PulseAudio Equalizer будете использовать то включайте его первым при загрузке , одновременно работать не могут так как потребляют один и тот же источник звука. В моём /etc/skel звук настроен сверх качественно вы можете включать музыкальные видео клипы и потом сравнить с windows это байтокодовые настройки и лежат они в 
+home/ваш_профиль_/.config/pulse
 
 Скачать Download Cinnamon Budgie OS 11 19.04 iso https://dropmefiles.com.ua/mkMAD update 06.05.2019
 Android cm-x86-14.1-r2.i686.rpm распаковать прямо от рута в корень / и обновить груб после перезагрузки можно загрузиться , документация на рабочем столе читать расскажет как создать data.img
