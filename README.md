@@ -1,14 +1,16 @@
 # Cinnamon-Budgie-Linux-OS-11-based-19.04-Ubuntu-Pop требуется флешка на 8 гигабайт
 
-Update Cinnamon-Budgie-Linux-OS-11-based-19.04-Ubuntu-Pop X64 Android + новое дополненное меню + my skel setting + Android
+Update Cinnamon-Budgie-Linux-OS-12-based-19.04-Ubuntu-Pop X64 Android + новое дополненное меню + my skel setting + Android
 
-Скачать VIP дистрибутив Download Cinnamon Budgie OS 11 19.04 iso для флешки 4 гигабайта https://dropmefiles.com.ua/SNDxLaTs + (Android https://yadi.sk/d/Cc-bpsnqtk1b9w)
+Скачать VIP дистрибутив Download Cinnamon Budgie OS 12 19.04 iso https://drive.google.com/file/d/1Gmv-iyoLaH5rs2I9Y7cSWIEJZARg-Mpk/view + (Android https://yadi.sk/d/Cc-bpsnqtk1b9w)
 
-Скачать Download Cinnamon Budgie OS 11 19.04 iso https://dropmefiles.com.ua/mkMAD + (Android https://yadi.sk/d/Cc-bpsnqtk1b9w)
+Скачать Download Cinnamon Budgie OS 11 19.04 iso https://dropmefiles.com.ua/SNDxLaTs + (Android https://yadi.sk/d/Cc-bpsnqtk1b9w)
 
 Устанавливаться будет по дольше так как компилируется на лету для вашей системы и железа. После установки из консоли или вручную удалите из etc (10-globally-managed-devices.conf) sudo rm-rf /etc/NetworkManager/conf.d/10-globally-managed-devices.conf дело в том что он мешает появиться проводному интернету в оболочке gnome-control центра , для флешки 4 гигабайта исправлено.
 
-Минусы и плюсы 4 гигабайта выскакивает надпись drm intel и не удалось завести на рабочее состояние pulseaudio-equalizer не путать с pulseeffects тот работает нормально, но в образе всё что нужно максимально минимум OBS Studio сами до установите и что вам надо, тот образ что больше нету надписи drm intel , но после установки надо сделать sudo rm-rf /etc/NetworkManager/conf.d/10-globally-managed-devices.conf работает pulseeffects и pulseaudio-equalizer , кто возьмётся переделывать что бы всё работало да конечно никто так что пока денег на разработку нету благодаря тем кто печатает бюджет пользуемся чем есть , так называемой анти астрой , анти отстоиный интерфейс.
+
+OS 12 19.04 обновлено ни каких записей при загрузке на черном экране типа drm нету ядро новое версии 5.0.0-20
+
 
 Система переведена на QT5CT не трогайте пока что эти настройки они уже настроены и могут упасть в сигфолт так как другие темы не 
 особо готовы и щупать их безопасно только в режиме гостя. И то кому это надо для разработчиков пусть правят свои баги и испытывают на vlc , qbittorent, kdenlive. Выпущено новое ядро https://github.com/Griggorii/linux-kernel-5.1.0_amd64.deb/blob/master/README.md
