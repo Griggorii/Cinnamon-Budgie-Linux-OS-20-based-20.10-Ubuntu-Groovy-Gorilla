@@ -8,7 +8,7 @@ Update Cinnamon-Budgie-Linux-OS-12-based-19.04-Ubuntu-Pop X64 Android + ново
 
 OS 12 19.04 обновлено ни каких записей при загрузке на черном экране типа drm нету ядро новое версии 5.0.0-20 
 
-Последняя версия ядра благодаря конфигу maurom https://drive.google.com/file/d/1RX8lqrcAzqSKU9HdaZvI3ddiY34Dasil/view?usp=sharing так же в самой ветке maurom следите может новее ядро выйдет https://maurom.com/kernel
+Последняя версия ядра linux-image-5.2.5 благодаря конфигу maurom скачать с гугл диска https://drive.google.com/file/d/1RX8lqrcAzqSKU9HdaZvI3ddiY34Dasil/view?usp=sharing так же в самой ветке maurom следите может новее ядро выйдет https://maurom.com/kernel
 
 Если у вас uefi то тут инструкция впереди создается раздел типа fat32 в gparted флаги ставим efi https://github.com/Griggorii/UEFI_ESP_Linux_Griggorii_instructions_readme из папки ESP без самой папки копируем все фаилы в этот загрузочный раздел потом при установке при uefi она закончится ошибкой , но это ошибкой не будет , а всего лишь предупреждением просто из live не выходим тут же смотрим fstab куда вы установили систему и цифры переписываем как сказано в инструкции.
 
@@ -17,7 +17,7 @@ Flags особенно srgb это очень сильная вещь прост
 
 
 Система переведена на QT5CT не трогайте пока что эти настройки они уже настроены и могут упасть в сигфолт так как другие темы не 
-особо готовы и щупать их безопасно только в режиме гостя. И то кому это надо для разработчиков пусть правят свои баги и испытывают на vlc , qbittorent, kdenlive. Выпущено новое ядро https://github.com/Griggorii/linux-kernel-5.1.0_amd64.deb/blob/master/README.md
+особо готовы и щупать их безопасно только в режиме гостя. И то кому это надо для разработчиков пусть правят свои баги и испытывают на vlc , qbittorent, kdenlive. 
 
 Если пропадает язык в окружении budgie то сделать в терминале от рута dpkg-reconfigure keyboard-configuration
 
