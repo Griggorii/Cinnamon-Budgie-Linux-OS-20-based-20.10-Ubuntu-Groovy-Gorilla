@@ -8,7 +8,7 @@ Update Cinnamon-Budgie-Linux-OS-12-based-19.04-Ubuntu-Pop X64 Android + ново
 
 OS 12 19.04 обновлено ни каких записей при загрузке на черном экране типа drm нету ядро новое версии 5.0.0-20 
 
-Последняя версия ядра linux-image-5.2.5 благодаря конфигу maurom ранее на более старом ядре блютус гарнитура воспроизводила рывками тут проверено нету такой задержки скачать с гугл диска https://drive.google.com/file/d/1RX8lqrcAzqSKU9HdaZvI3ddiY34Dasil/view?usp=sharing так же в самой ветке maurom следите может новее ядро выйдет https://maurom.com/kernel
+Последняя версия ядра linux-image-5.2.5 благодаря конфигу maurom ранее на более старом ядре блютус гарнитура воспроизводила рывками тут проверено нету такой задержки скачать с гугл диска https://drive.google.com/file/d/1RX8lqrcAzqSKU9HdaZvI3ddiY34Dasil/view?usp=sharing так же в самой ветке maurom следите может новее ядро выйдет https://maurom.com/kernel + new my config + deb kernel https://drive.google.com/open?id=1gKbSo3L56FnsGaM3uB8LJ3QqRpRRfckM
 
 Если у вас uefi то тут инструкция впереди создается раздел типа fat32 в gparted флаги ставим efi https://github.com/Griggorii/UEFI_ESP_Linux_Griggorii_instructions_readme из папки ESP без самой папки копируем все фаилы в этот загрузочный раздел потом при установке при uefi она закончится ошибкой , но это ошибкой не будет , а всего лишь предупреждением просто из live не выходим тут же смотрим fstab куда вы установили систему и цифры переписываем как сказано в инструкции.
 
