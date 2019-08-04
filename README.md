@@ -2,7 +2,7 @@
 
 Update Cinnamon-Budgie-Linux-OS-12-based-19.04-Ubuntu-Pop X64 Android + новое дополненное меню + my skel setting + Android
 
-Скачать VIP дистрибутив Download Cinnamon Budgie OS 12 19.04 iso https://drive.google.com/drive/folders/12ioSo0vCnCfyi577W2MYxiDHVUxTgpeP + (Android https://yadi.sk/d/Cc-bpsnqtk1b9w)
+Скачать VIP дистрибутив Download Cinnamon Budgie OS 12 19.04 iso https://drive.google.com/open?id=11jfDNzd6aQfqIR4hkArrI-ZPGd6Pyfdi + (Android https://yadi.sk/d/Cc-bpsnqtk1b9w)
 
 Скачать Download Cinnamon Budgie OS 11 19.04 iso https://dropmefiles.com.ua/SNDxLaTs + (Android https://yadi.sk/d/Cc-bpsnqtk1b9w)
 
