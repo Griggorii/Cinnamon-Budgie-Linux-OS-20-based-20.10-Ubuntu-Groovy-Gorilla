@@ -5,7 +5,7 @@ Update Cinnamon-Budgie-Linux-OS-12-based-19.04-Ubuntu-Pop X64 Android + ново
 ______________________________________________________________________________________________________________________
 Для SSD
 
-Скачать VIP дистрибутив Download Cinnamon Budgie OS 12 19.04 iso https://dropmefiles.com.ua/ZwVze + (Android https://yadi.sk/d/Cc-bpsnqtk1b9w) 
+Скачать VIP дистрибутив Download Cinnamon Budgie OS 12 19.04 iso https://dropmefiles.com.ua/ZwVze + (Android https://yadi.sk/d/Cc-bpsnqtk1b9w) Wayland теперь по быстрее чем был все обновлено
 ______________________________________________________________________________________________________________________
 
 Для HDD
