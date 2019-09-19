@@ -1,10 +1,10 @@
-# Cinnamon-Budgie-Linux-OS-11-based-19.04-Ubuntu-Pop требуется флешка на 8 гигабайт
+# Cinnamon-Budgie-Linux-OS-14-based-19.04-Ubuntu-Pop требуется флешка на 8 гигабайт
 
-Update Cinnamon-Budgie-Linux-OS-12-based-19.04-Ubuntu-Pop X64 Android + новое дополненное меню + my skel setting + Android
+Update Cinnamon-Budgie-Linux-OS-14-based-19.04-Ubuntu-Pop X64 Android + новое дополненное меню + my skel setting + Android
 
 ______________________________________________________________________________________________________________________
 
-Скачать ISO дистрибутив Download Cinnamon Budgie OS 12 19.04 iso https://dropmefiles.com.ua/ZwVze + (Android https://yadi.sk/d/Cc-bpsnqtk1b9w) Wayland теперь по быстрее чем был все обновлено новое ядро которое будет есть 
+Скачать ISO дистрибутив Download Cinnamon Budgie OS 14 19.04 iso идет загрузка щас будет + (Android https://yadi.sk/d/Cc-bpsnqtk1b9w) Wayland теперь по быстрее чем был все обновлено новое ядро которое будет есть 
 меньше памяти https://github.com/Griggorii/linux-image-5.2.11_X86_64_zstd_versia_12_griggorii_config/blob/master/README.md
 
 ______________________________________________________________________________________________________________________
@@ -39,7 +39,6 @@ Flags особенно srgb это очень сильная вещь прост
 home/ваш_профиль_/.config/pulse на счет systemd кто то говорит что разжирнел итд так это geoclue разжирел ищите и наказывайте 
 кто его туда напихал и ещё и в зависимость.
 
-Скачать Download Cinnamon Budgie OS 11 19.04 iso https://dropmefiles.com.ua/mkMAD update 06.05.2019
 Android cm-x86-14.1-r2.i686.rpm распаковать прямо от рута в корень / и обновить груб после перезагрузки можно загрузиться , документация на рабочем столе читать расскажет как создать data.img
 Пароль для установки 123 такой же пароль имеет рут. 
 Понадобиться флешка с 4 гигабайтами для того что бы образ влез , 
