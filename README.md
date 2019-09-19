@@ -1,4 +1,4 @@
-# Cinnamon-Budgie-Linux-OS-14-based-19.04-Ubuntu-Pop требуется флешка на 8 гигабайт
+# Cinnamon-Budgie-Linux-OS-14-based-19.04-Ubuntu-Pop требуется флешка на 4 гигабайт версия так же исправлена и нормально загружается на ssd дисках 
 
 Update Cinnamon-Budgie-Linux-OS-14-based-19.04-Ubuntu-Pop X64 Android + новое дополненное меню + my skel setting + Android
 
