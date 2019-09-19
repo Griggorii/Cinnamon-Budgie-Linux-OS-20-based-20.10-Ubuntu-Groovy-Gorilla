@@ -1,12 +1,10 @@
-# Cinnamon-Budgie-Linux-OS-14-based-19.04-Ubuntu-Pop требуется флешка на 4 гигабайта 
+# Cinnamon-Budgie-Linux-OS-14-based-19.04-Ubuntu-Pop требуется флешка на 4 гигабайта вес iso 3Гб 
 
 Update Cinnamon-Budgie-Linux-OS-14-based-19.04-Ubuntu-Pop X64 Android + новое дополненное меню + my skel setting + Android
 
 ______________________________________________________________________________________________________________________
 
-Скачать ISO дистрибутив Download Cinnamon Budgie OS 14 19.04 iso https://drive.google.com/open?id=1mh50LlK6ZAbK-nRcHb7h1OgLYMDLirzu + (Android https://yadi.sk/d/Cc-bpsnqtk1b9w) Wayland теперь по быстрее чем был все обновлено новое ядро которое будет есть 
-меньше памяти https://github.com/Griggorii/linux-image-5.2.11_X86_64_zstd_versia_12_griggorii_config/blob/master/README.md
-версия так же исправлена и нормально загружается на ssd дисках и с компиляцией каких либо программ для разработчиков не будет ядро скомпилирует сразу даже без установки все dev инклюды для этого установлены.
+Скачать ISO дистрибутив Download Cinnamon Budgie OS 14 19.04 iso https://drive.google.com/open?id=1mh50LlK6ZAbK-nRcHb7h1OgLYMDLirzu + (Android https://yadi.sk/d/Cc-bpsnqtk1b9w) Wayland теперь по быстрее чем был все обновлено новое ядро которое будет есть меньше памяти https://github.com/Griggorii/linux-image-5.2.11_X86_64_zstd_versia_12_griggorii_config/blob/master/README.md версия так же исправлена и нормально загружается на ssd дисках и с компиляцией каких либо программ для разработчиков не будет ядро скомпилирует сразу даже без установки все dev инклюды для этого установлены.
 
 ______________________________________________________________________________________________________________________
 
