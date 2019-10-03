@@ -4,7 +4,7 @@ Update Cinnamon-Budgie-Linux-OS-14-based-19.04-Ubuntu-Pop X64 Android + ново
 
 ______________________________________________________________________________________________________________________
 
-Скачать ISO дистрибутив Download Cinnamon Budgie OS 14 19.04 iso 3Гб  https://drive.google.com/open?id=1oyYiC8CHQ46Mu4XpFGqN2EUiMFVwQagF + (Android https://yadi.sk/d/Cc-bpsnqtk1b9w) 
+Скачать ISO дистрибутив Download Cinnamon Budgie OS 14 19.04 iso 3Гб  https://drive.google.com/open?id=1vDvnhDBOEpiXhQ0H-YdVER5pKFAP9Csc + (Android https://yadi.sk/d/Cc-bpsnqtk1b9w) 
 При загрузке заидите в папку Home и запустите Установить RELEASE 
 Wayland теперь по быстрее чем был все обновлено новое ядро  нормально загружается на ssd дисках и с компиляцией каких либо программ для разработчиков не будет ядро скомпилирует сразу даже без установки все dev инклюды для этого я установил. skel обновлен добавлен 15 звуковой пресет для pulseeffects ,
 конфиги хромиума и хрома с настроенными флагами dconf теперь в правой части иконки obs и других программ pulseaudio-equalizer 
