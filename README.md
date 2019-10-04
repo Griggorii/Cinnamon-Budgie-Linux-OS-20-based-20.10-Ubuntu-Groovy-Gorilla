@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 Скачать ISO дистрибутив Cinnamon Budgie OS 14 19.04 iso 3Гб https://drive.google.com/open?id=1a0Cavfiklo3SVStGLMNBEJb2j7NBnacN
 
-+    Android https://yadi.sk/d/Cc-bpsnqtk1b9w
++ Если кому надо вот в придачу Android https://yadi.sk/d/Cc-bpsnqtk1b9w
 
 При загрузке в верхнем самом правом углу нажмите на значек и выбирите cinnamon окружение будет загружаться из гостевой сессии это будет долго так как флешка на рабочем столе жмём Установить RELEASE и пароль 123 если 
 
