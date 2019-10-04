@@ -4,7 +4,7 @@ Update Cinnamon-Budgie-Linux-OS-15-based-19.04-Ubuntu-Pop X64 Android + ново
 
 ______________________________________________________________________________________________________________________
 
-Скачать ISO дистрибутив Cinnamon Budgie OS 14 19.04 iso 3Гб https://drive.google.com/open?id=1a0Cavfiklo3SVStGLMNBEJb2j7NBnacN
+Скачать ISO дистрибутив Cinnamon Budgie OS 15 19.04 iso 3Гб https://drive.google.com/open?id=1a0Cavfiklo3SVStGLMNBEJb2j7NBnacN
 
 + Если кому надо вот в придачу Android https://yadi.sk/d/Cc-bpsnqtk1b9w
 
