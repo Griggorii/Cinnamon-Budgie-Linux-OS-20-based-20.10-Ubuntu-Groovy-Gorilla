@@ -1,10 +1,10 @@
-# Cinnamon-Budgie-Linux-OS-14-based-19.04-Ubuntu-Pop требуется флешка на 4 гигабайта вес iso 3Гб 
+# Cinnamon-Budgie-Linux-OS-15-based-19.04-Ubuntu-Pop требуется флешка на 4 гигабайта вес iso 3Гб 
 
-Update Cinnamon-Budgie-Linux-OS-14-based-19.04-Ubuntu-Pop X64 Android + новое дополненное меню + my skel setting + Android
+Update Cinnamon-Budgie-Linux-OS-15-based-19.04-Ubuntu-Pop X64 Android + новое дополненное меню + my skel setting + Android
 
 ______________________________________________________________________________________________________________________
 
-Скачать ISO дистрибутив Download Cinnamon Budgie OS 14 19.04 iso 3Гб  https://drive.google.com/open?id=1vDvnhDBOEpiXhQ0H-YdVER5pKFAP9Csc + (Android https://yadi.sk/d/Cc-bpsnqtk1b9w) 
+Скачать ISO дистрибутив Download Cinnamon Budgie OS 14 19.04 iso 3Гб  ----coming 15 min uploade---- + (Android https://yadi.sk/d/Cc-bpsnqtk1b9w) 
 
 При загрузке в верхнем самом правом углу нажмите на значек и выбирите budgie окружение не budgie-panel это наработка так что не путать начнет проявляться сессия это будет долго так как флешка на рабочем столе жмём Установить RELEASE и пароль 123 если 
 что какие проблемы то читать в Читать.txt в самом низу , но навряд ли они будут я проверил при установке пользователь все нормально создается как установите возможно вылетите в сессию unity так же выходим меняем на любое другое окружение , сами обновляем систему если надо. Кошелек для тех кто действительно видит что наработано нечто новое чем обычно в документах dconf 
