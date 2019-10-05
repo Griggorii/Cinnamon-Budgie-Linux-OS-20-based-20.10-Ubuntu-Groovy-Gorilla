@@ -1,11 +1,11 @@
 # Cinnamon-Budgie-Linux-OS-15-based-19.04-Ubuntu-Pop требуется флешка на 4 гигабайта вес iso 3Гб 
 
 Update Cinnamon-Budgie-Linux-OS-15-based-19.04-Ubuntu-Pop X64 Android + новое дополненное меню + my skel setting + Android
-# Внимание флешка буз готового пользователя и загружаться будет долго придется потерпеть длительный черный экран , но после 
+Внимание флешка буз готового пользователя и загружаться будет долго придется потерпеть длительный черный экран , но после 
 установки все будет быстрым т.е в других дистрибутивах готовый и пустой /etc/skel без настроек у меня все настроено и настройки будут подгружатся долго. Но после установки все будет быстрым как надо.
 ______________________________________________________________________________________________________________________
 
-# Скачать ISO дистрибутив Cinnamon Budgie OS 15 19.04 iso 3Гб https://drive.google.com/open?id=1a0Cavfiklo3SVStGLMNBEJb2j7NBnacN так же для ядра на котором моя OS , а это версия 5.2.11 скомпилирован модуль exfat-linux  https://github.com/Griggorii/Cinnamon-Budgie-Linux-OS-15-based-19.04-Ubuntu-Pop/tree/master/5.2.11 deb пакет остается просто установить.
+Скачать ISO дистрибутив Cinnamon Budgie OS 15 19.04 iso 3Гб https://drive.google.com/open?id=1a0Cavfiklo3SVStGLMNBEJb2j7NBnacN так же для ядра на котором моя OS , а это версия 5.2.11 скомпилирован модуль exfat-linux  https://github.com/Griggorii/Cinnamon-Budgie-Linux-OS-15-based-19.04-Ubuntu-Pop/tree/master/5.2.11 deb пакет остается просто установить.
 
 + Если кому надо вот в придачу Android https://yadi.sk/d/Cc-bpsnqtk1b9w
 
