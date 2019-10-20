@@ -4,7 +4,7 @@ Update Cinnamon-Budgie-Linux-OS-18-based-19.04-Ubuntu-Pop X64 Android + ново
 
 ______________________________________________________________________________________________________________________
 
-Скачать ISO дистрибутив Cinnamon Budgie OS 18 19.04 iso 3Гб https://drive.google.com/open?id=16PWanzg4lmgIzpQub5y82a_uhQlzBgdq  патч от тиринга https://github.com/Griggorii/linux_xorg_glamor_perfomance_uxa_tearing_fix_intel драивер glm будет работать только на установленной системе и даст прирост скорости в 3 - 4 раза больше чем вы видили ранее в других дистрибутивах , в live режиме glm glamor теперь будет работать. Скачайте так же пакет libsndio6.1_1.1.0-2_amd64.deb если вам нужен yuzu-canary
+Скачать ISO дистрибутив Cinnamon Budgie OS 18 19.04 iso 3Гб https://drive.google.com/open?id=16PWanzg4lmgIzpQub5y82a_uhQlzBgdq  патч от тиринга убирает Composite из xorg фаила который приводит к тирингу  https://github.com/Griggorii/linux_xorg_glamor_perfomance_uxa_tearing_fix_intel драивер glm будет работать только на установленной системе и даст прирост скорости в 3 - 4 раза больше чем вы видили ранее в других дистрибутивах , в live режиме glm glamor теперь будет работать. Скачайте так же пакет libsndio6.1_1.1.0-2_amd64.deb если вам нужен yuzu-canary
 
 + Если кому надо вот в придачу Android https://yadi.sk/d/Cc-bpsnqtk1b9w
 
