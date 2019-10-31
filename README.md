@@ -7,7 +7,9 @@ ________________________________________________________________________________
 Скачать ISO дистрибутив Cinnamon Budgie OS 18 19.04 iso 3Гб https://drive.google.com/open?id=16PWanzg4lmgIzpQub5y82a_uhQlzBgdq  патч от тиринга убирает лишнее из xorg фаила который приводит к тирингу  https://github.com/Griggorii/linux_xorg_glamor_perfomance_uxa_tearing_fix_intel драивер glm будет работать только на установленной системе и даст прирост скорости в 3 - 4 раза больше чем вы видили ранее в других дистрибутивах , в live режиме glm glamor теперь будет работать. Скачайте так же пакет libsndio6.1_1.1.0-2_amd64.deb если вам нужен yuzu-canary
 
 + Если кому надо вот в придачу Android 
+
 Android 8: https://yadi.sk/d/EBZV01js067jMA
+
 Android 7.1: https://yadi.sk/d/zldaYRjGShxTXw android 7 https://www.youtube.com/watch?v=ua_QQNJtKE8
 
 После установки если опять заидёт в root там можно сменить пароль сразу в терминале это команда passwd не перезагружаясь выйдите верхнем самом правом углу нажмите на значек и выбирите budgie / cinnamon или что захотите , а по центру экрана увидите если там стоит воити как гость то нажмите и поменяйте на своего пользователя , cinnamon  или окружение которое до этого знали.
