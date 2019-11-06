@@ -8,6 +8,8 @@ ________________________________________________________________________________
 
 OBS-Studio в панели https://github.com/Griggorii/Cinnamon-Budgie-Linux-OS-18-based-19.04-Ubuntu-Pop/blob/master/OS18%20OBS-Studio%20Fix%20Panel.png
 
+Прежде чем что то устанавливать обновите базу sudo apt update забыл установить OBS и fish сами там решайте нужно вам или нет
+
 + Если кому надо вот в придачу Android 
 
 Android 8: https://yadi.sk/d/EBZV01js067jMA
