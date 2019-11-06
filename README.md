@@ -10,7 +10,7 @@ OBS-Studio в панели https://github.com/Griggorii/Cinnamon-Budgie-Linux-OS
 
 Прежде чем что то устанавливать обновите базу sudo apt update забыл установить OBS и fish сами там решайте нужно вам или нет
 
-Pulseeffects надо будет обновить иначе он не запустится
+Pulseeffects и pulseaudio надо будет обновить иначе он не запустится
 
 + Если кому надо вот в придачу Android 
 
