@@ -10,12 +10,21 @@ ________________________________________________________________________________
 раздела EFI тот что на фат но забираем в этом разделе фаил grub.cfg /EFI/linux/grub.cfg его закидываем с заменой везде в 
 /boot/efi/EFI/ubuntu и /media/root/тут_номер/EFI/ubuntu/grub.cfg потому что там будет номер после из терминала выполним 
 
-mount /dev/sda2 /mnt 
-mount --bind /dev /mnt/dev 
-mount --bind /proc /mnt/proc 
-mount --bind /sys /mnt/sys 
-chroot /mnt 
-update-grub && reboot -f
+mount /dev/sda2 /mnt
+
+mount --bind /dev /mnt/dev
+
+mount --bind /proc /mnt/proc
+
+mount --bind /sys /mnt/sys
+
+chroot /mnt
+
+update-grub
+
+Выключаем компьютер вынимаем флешку
+
+
 
 в Документах после установки будет лежать патч для интел видео карт linux_xorg_glamor_perfomance_uxa_tearing_fix_intel драивер glm будет работать только на установленной системе и даст прирост скорости в 3 - 4 раза после его установки больше чем вы видили ранее в других дистрибутивах , в live режиме glm glamor теперь будет работать. Скачайте так же пакет libsndio6.1_1.1.0-2_amd64.deb если вам нужен yuzu-canary
 
