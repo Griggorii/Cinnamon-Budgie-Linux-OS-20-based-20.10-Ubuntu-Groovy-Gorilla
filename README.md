@@ -1,30 +1,10 @@
-# Cinnamon-Budgie-Linux-OS-18-based-19.04-Ubuntu-Pop требуется флешка на 4 гигабайта вес iso 3Гб 
+# Cinnamon-Budgie-Linux-OS-19-based-19.04-Ubuntu-Pop требуется флешка на 4 гигабайта вес iso 3Гб 
 
-Update Cinnamon-Budgie-Linux-OS-18-based-19.04-Ubuntu-Pop X64 Android + новое дополненное меню + my skel setting + Android
+Update Cinnamon-Budgie-Linux-OS-19-based-19.04-Ubuntu-Pop X64 Android + новое дополненное меню + my skel setting + Android
 
 ______________________________________________________________________________________________________________________
 
-Скачать ISO дистрибутив Cinnamon Budgie OS 18 19.04 iso 3Гб https://drive.google.com/open?id=1j2JSfk7F9J79TsE2qqLaXAcX3dpQWmuf внимание если вы не осилите что написано внизу то не ставьте пока систему потренеруйтесь 
-там на вмваре , виртуалбоксе и других инструментах , позднее я посмотрю что можно сделать.
-
-Обнаружилась проблема grub2 скачиваем EFI.tar.gz распаковываем после установки в /boot/efi скорее всего на момент установки будет /target/boot/efi и в FAT если вы ставили EFI /media/root/тут_номер/ раздела EFI тот что на фат , но забираем в этом разделе фаил grub.cfg /EFI/linux/grub.cfg его закидываем с заменой везде в /boot/efi/EFI/ubuntu и /media/root/тут_номер/EFI/ubuntu/grub.cfg потому что там будет номер раздела для ефи если вы не используете ещё впереди ситем это обычно sda2 после из терминала выполним 
-
-mount /dev/sda2 /mnt
-
-mount --bind /dev /mnt/dev
-
-mount --bind /proc /mnt/proc
-
-mount --bind /sys /mnt/sys
-
-chroot /mnt
-
-update-grub
-
-Выключаем компьютер вынимаем флешку
-
-
-
+Скачать ISO дистрибутив Cinnamon Budgie OS 19 19.04 iso 3Гб ссылка будет тут через несколько минут
 в Документах после установки будет лежать патч для интел видео карт linux_xorg_glamor_perfomance_uxa_tearing_fix_intel драивер glm будет работать только на установленной системе и даст прирост скорости в 3 - 4 раза после его установки больше чем вы видили ранее в других дистрибутивах , в live режиме glm glamor теперь будет работать. Скачайте так же пакет libsndio6.1_1.1.0-2_amd64.deb если вам нужен yuzu-canary
 
 OBS-Studio в панели https://github.com/Griggorii/Cinnamon-Budgie-Linux-OS-18-based-19.04-Ubuntu-Pop/blob/master/OS18%20OBS-Studio%20Fix%20Panel.png
