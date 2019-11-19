@@ -1,6 +1,6 @@
-# Cinnamon-Budgie-Linux-OS-19-based-19.04-Ubuntu-Pop требуется флешка на 4 гигабайта вес iso 3Гб 
+# Cinnamon-Budgie-Linux-OS-20-based-19.10-Ubuntu-Pop требуется флешка на 4 гигабайта вес iso 3Гб 
 
-Update Cinnamon-Budgie-Linux-OS-19-based-19.04-Ubuntu-Pop X64 Android + новое дополненное меню + my skel setting + Android
+Update Cinnamon-Budgie-Linux-OS-20-based-19.10-Ubuntu-Pop X64 Android + новое дополненное меню + my skel setting + Android
 
 ______________________________________________________________________________________________________________________
 
