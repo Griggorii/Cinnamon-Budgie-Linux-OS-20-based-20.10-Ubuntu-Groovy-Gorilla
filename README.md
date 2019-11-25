@@ -4,7 +4,7 @@ Update Cinnamon-Budgie-Linux-OS-20-based-19.10-Ubuntu-Pop X64 Android + ново
 
 ______________________________________________________________________________________________________________________
 
-Скачать ISO дистрибутив Cinnamon Budgie OS20 19.10 iso 3Гб https://drive.google.com/open?id=1c5zo5O1S6nckUCuHaeL0j5L52CJcqN8K мотрим и скачиваем под видео новые настройки для 19.10 https://youtu.be/J7HbQ246W7s .
+Скачать ISO дистрибутив Cinnamon Budgie OS20 19.10 iso 3Гб https://drive.google.com/open?id=1c5zo5O1S6nckUCuHaeL0j5L52CJcqN8K мотрим и скачиваем под видео новые настройки для 19.10 https://youtu.be/J7HbQ246W7s вообщем если браузеры сильно будут тормозить то попробуте из системы по удалять всякие speech-dispatcher.
 
 или Cinnamon Budgie OS19 19.04 iso 3Гб https://yadi.sk/d/IQ2t0KyyWxmg4A для тех кому нужен nemo который не прячет меню , но ест побольше чем  19.10 зато nemo имеет такую функцию внизу ссылка , открытые браузеры меньше тормозят объяснение в самом низу на рабочем столе в фаиле читать.txt складывается впечатление что в 19.10 напихали очень много метрик от разных сервисов интернета хотя образ я собрал с ноля , а не скачивал и дополнял т.е вся сборка 19.10 была с минимал iso и ещё какие то умные люди выбросили из xfce4 "вертикальную синхронизацию" в итоге там тиринг во как. https://github.com/Griggorii/Linux_Nemo_find_type_file_fix_by_griggorii/blob/master/Nemo_find.flv
 
