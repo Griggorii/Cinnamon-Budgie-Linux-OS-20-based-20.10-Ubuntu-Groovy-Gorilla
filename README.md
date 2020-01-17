@@ -1,4 +1,4 @@
-# Cinnamon-Budgie-Linux-OS-20-based-19.10-Ubuntu-Pop требуется флешка на 4 гигабайта вес iso 3Гб 
+# Cinnamon-Budgie-Linux-OS-20-based-19.10-Ubuntu-Pop требуется флешка на 4 гигабайта вес iso 3Гб если после инсталяции вы выделяли впереди 100 Мб и более под efi раздел и выдаст ошибку то система всё равно будет рабочей только надо перезагрузить и успеть вытащить флешку.
 
 Update Cinnamon-Budgie-Linux-OS-20-based-19.10-Ubuntu-Pop X64 Android + новое дополненное меню + my skel setting + Android
 
