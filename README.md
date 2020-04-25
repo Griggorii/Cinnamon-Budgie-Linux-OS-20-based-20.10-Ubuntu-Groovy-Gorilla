@@ -13,9 +13,9 @@ ________________________________________________________________________________
 
 + Если кому надо вот в придачу Android 
 
-Android 8: https://yadi.sk/d/EBZV01js067jMA
+Android 8: https://yadi.sk/d/u7McqXikcZC6Lw
 
-Android 7.1: https://yadi.sk/d/zldaYRjGShxTXw android 7 https://www.youtube.com/watch?v=ua_QQNJtKE8
+Android 7.1: https://yadi.sk/d/rlrR6hdaBz0mWA android 7 https://www.youtube.com/watch?v=ua_QQNJtKE8
 
 После установки если опять заидёт в root там можно сменить пароль сразу в терминале это команда passwd не перезагружаясь выйдите верхнем самом правом углу нажмите на значек и выбирите budgie / cinnamon или что захотите , а по центру экрана увидите если там стоит воити как гость то нажмите и поменяйте на своего пользователя , cinnamon  или окружение которое до этого знали.
 
