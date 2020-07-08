@@ -5,7 +5,7 @@ Update Cinnamon-Budgie-Linux-OS-20-based-20.10-Ubuntu-Groovy-Gorilla X64 Android
 1)OS20 Groovy Gorilla 20.10                    2) OS19 Disco Dingo 19.04
 ______________________________________________________________________________________________________________________
 
-1) Ubuntu 20.10 Groovy Gorilla X64 2Гб https://drive.google.com/file/d/1O2t73w5JsITPasc8k0cQZuycVo1G-8Jt/view?usp=sharing 
+1) Ubuntu 20.10 Groovy Gorilla X64 2Гб https://drive.google.com/file/d/1O2t73w5JsITPasc8k0cQZuycVo1G-8Jt/view?usp=sharing 08.07.2020
 
 Wayland fast ! Install iso autologin replace lightdm to gdm3 command:
 
@@ -15,7 +15,9 @@ Replace passwd root 123
 
 ----------------------------------------------------------------------------------------------------------------------------
 2) Cinnamon Budgie OS19 19.04 iso 3Гб https://yadi.sk/d/mz7GqVMUg258Pg update 23.03.2019 
-Ядро с нормальной поддержкой dkms , snapd , flatpak,  https://github.com/Griggorii/linux-image-kernel-5.8.8-zstd-dkms-support-light-kernal-x86_64  , а торвальдс щас даёт какие то урезанные версии ядер так дело не поидёт по этому я сделал заново регрессию ядра наложил дифов и патчей и вывел новое ядро. Если после инсталяции вы выделяли впереди 100 Мб и более под efi раздел и выдаст ошибку то система всё равно будет рабочей только надо перезагрузить и успеть вытащить флешку
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------
 
 + Если кому надо вот в придачу Android 
