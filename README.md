@@ -2,7 +2,7 @@
 
 Update Cinnamon-Budgie-Linux-OS-20-based-20.10-Ubuntu-Groovy-Gorilla X64 Android + новое дополненное меню + my skel setting + Android
 
-OS20 19.10 2) OS19 19.04 3) OS8.0 18.10 upstart-OS8.0_Demo_Griggorii.tar.bz2 поддерживается только в этой системе все отличающиеся операционные системы не поддерживатся и сломаются до не восстанавливаемого для новичка состояния.
+1)OS20 Groovy Gorilla 20.10                    2) OS19 Disco Dingo 19.04
 ______________________________________________________________________________________________________________________
 
 1) Ubuntu 20.10 Groovy Gorilla X64 2Гб https://drive.google.com/file/d/1O2t73w5JsITPasc8k0cQZuycVo1G-8Jt/view?usp=sharing 
