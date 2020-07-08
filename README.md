@@ -7,7 +7,11 @@ ________________________________________________________________________________
 
 1) Ubuntu 20.10 Groovy Gorilla X64 2Гб https://drive.google.com/file/d/1O2t73w5JsITPasc8k0cQZuycVo1G-8Jt/view?usp=sharing 
 
-Wayland fast !
+Wayland fast ! Install iso autologin replace gdm3 command:
+
+sudo dpkg-reconfigure lightdm
+
+Replace passwd root 123
 
 ----------------------------------------------------------------------------------------------------------------------------
 2) Cinnamon Budgie OS19 19.04 iso 3Гб https://yadi.sk/d/mz7GqVMUg258Pg update 23.03.2019 
