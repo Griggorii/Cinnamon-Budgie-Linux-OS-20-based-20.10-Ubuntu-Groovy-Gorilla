@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 1) Ubuntu 20.10 Groovy Gorilla X64 2Гб https://drive.google.com/file/d/1O2t73w5JsITPasc8k0cQZuycVo1G-8Jt/view?usp=sharing 
 
-Wayland fast ! Install iso autologin replace gdm3 command:
+Wayland fast ! Install iso autologin replace lightdm to gdm3 command:
 
 sudo dpkg-reconfigure lightdm
 
