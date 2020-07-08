@@ -5,7 +5,7 @@ Update Cinnamon-Budgie-Linux-OS-20-based-20.10-Ubuntu-Groovy-Gorilla X64 Android
 1)OS20 Groovy Gorilla 20.10                    2) OS19 Disco Dingo 19.04
 ______________________________________________________________________________________________________________________
 
-1) Ubuntu 20.10 Groovy Gorilla X64 2Гб https://drive.google.com/file/d/1O2t73w5JsITPasc8k0cQZuycVo1G-8Jt/view?usp=sharing 08.07.2020
+1) Ubuntu 20.10 Groovy Gorilla X64 2Гб https://drive.google.com/file/d/1O2t73w5JsITPasc8k0cQZuycVo1G-8Jt/view?usp=sharing only gnome + rdp 08.07.2020
 
 Wayland fast ! Install iso autologin replace lightdm to gdm3 command:
 
