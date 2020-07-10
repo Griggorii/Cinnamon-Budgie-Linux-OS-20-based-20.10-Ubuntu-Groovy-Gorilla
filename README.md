@@ -11,11 +11,13 @@ Wayland fast ! Install iso autologin replace lightdm to gdm3 command:
 
 sudo dpkg-reconfigure lightdm
 
-Steam and wine video driver in wayland 20.10 not stable alternative , stable in wayland video driver old OS 20.04 https://github.com/Griggorii/Linux_OS20.04_X64_By_Griggorii.iso_ubuntu_focal_fossa-linux-image-5.4.0-21 old video driver https://github.com/Griggorii/mesa-20.0.4_V15-libdrm_ubuntu-20.04_and_19.04_X86_64_full_stack_graphics
+Steam and wine video driver in wayland 20.10 not stable alternative , stable in wayland video driver old video driver https://github.com/Griggorii/mesa-20.0.4_V15-libdrm_ubuntu-20.04_and_19.04_X86_64_full_stack_graphics
 
 ----------------------------------------------------------------------------------------------------------------------------
 2) Cinnamon Budgie OS19 19.04 iso 3Гб https://yadi.sk/d/mz7GqVMUg258Pg update 23.03.2019 
 
+
+Steam and wine video driver in wayland 20.10 not stable alternative , stable in wayland video driver old video driver https://github.com/Griggorii/mesa-20.0.4_V15-libdrm_ubuntu-20.04_and_19.04_X86_64_full_stack_graphics
 
 
 ---------------------------------------------------------------------------------------------------------------------------
