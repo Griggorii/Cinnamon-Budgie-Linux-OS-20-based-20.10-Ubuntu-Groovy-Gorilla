@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 Wayland fast ! Install iso autologin replace lightdm to gdm3 command:
 
-sudo dpkg-reconfigure lightdm
+sudo dpkg-reconfigure lightdm && sudo apt update && sudo apt install zram-config -y
 
 Steam and wine video driver in wayland 20.10 not stable alternative , stable in wayland video driver old video driver https://github.com/Griggorii/mesa-20.0.4_V15-libdrm_ubuntu-20.04_and_19.04_X86_64_full_stack_graphics
 
